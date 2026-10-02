@@ -234,8 +234,13 @@ Keluar
 
 💡 Hijau selalu menandakan operasi berhasil, merah untuk pesan error — terlepas dari warna menu yang aktif.
 
+## 3. Dokumentasi Demo
+<img width="756" height="75" alt="image" src="https://github.com/user-attachments/assets/cb6565bd-1857-43d4-b533-747c527b78bd" />
+link video demo :
+https://drive.google.com/file/d/1zmuOWo8PYA0RYWNFM8NnE2pBVD_XgcEP/view?usp=sharing
 
-## 3. Pengisian Form Absensi
+
+## 4. Pengisian Form Absensi
 
 | Field | Isi |
 | --- | --- |
