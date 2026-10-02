@@ -1,0 +1,14 @@
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\bin\Debug\net10.0\DataMahasiswa.exe
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\bin\Debug\net10.0\DataMahasiswa.deps.json
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\bin\Debug\net10.0\DataMahasiswa.runtimeconfig.json
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\bin\Debug\net10.0\DataMahasiswa.dll
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\bin\Debug\net10.0\DataMahasiswa.pdb
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\obj\Debug\net10.0\DataMahasiswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\obj\Debug\net10.0\DataMahasiswa.AssemblyInfoInputs.cache
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\obj\Debug\net10.0\DataMahasiswa.AssemblyInfo.cs
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\obj\Debug\net10.0\DataMahasiswa.csproj.CoreCompileInputs.cache
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\obj\Debug\net10.0\DataMahasiswa.dll
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\obj\Debug\net10.0\refint\DataMahasiswa.dll
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\obj\Debug\net10.0\DataMahasiswa.pdb
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\obj\Debug\net10.0\DataMahasiswa.genruntimeconfig.cache
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Datamahasiswa\obj\Debug\net10.0\ref\DataMahasiswa.dll

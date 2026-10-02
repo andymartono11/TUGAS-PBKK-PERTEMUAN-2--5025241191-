@@ -1,0 +1,14 @@
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\bin\Debug\net10.0\Hello.exe
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\bin\Debug\net10.0\Hello.deps.json
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\bin\Debug\net10.0\Hello.runtimeconfig.json
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\bin\Debug\net10.0\Hello.dll
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\bin\Debug\net10.0\Hello.pdb
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\obj\Debug\net10.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\obj\Debug\net10.0\Hello.AssemblyInfoInputs.cache
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\obj\Debug\net10.0\Hello.AssemblyInfo.cs
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\obj\Debug\net10.0\Hello.csproj.CoreCompileInputs.cache
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\obj\Debug\net10.0\Hello.dll
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\obj\Debug\net10.0\refint\Hello.dll
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\obj\Debug\net10.0\Hello.pdb
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\obj\Debug\net10.0\Hello.genruntimeconfig.cache
+C:\KULIAH ITS\SEMESTER 5\PBKK\5025241191_Antonius Andy Martono_TugasPertemuan2\Hello\obj\Debug\net10.0\ref\Hello.dll
